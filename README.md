@@ -1,13 +1,13 @@
-# Scopewatch
+# hemowatch
 
-An entry for the OpenCV AI Competition 2026. Scopewatch watches the laparoscopic
+An entry for the OpenCV AI Competition 2026. Hemowatch watches the laparoscopic
 camera that is already in the operating room and measures the things a surgical team
 currently estimates by eye: the blood on the field, with an uncertainty range rather
 than a single number; the timestamp where the rate of change crosses a threshold; the
 instruments and the operative phase; and a safety checkpoint that a named person must
 answer before the irreversible step.
 
-**Scopewatch is decision support and a retrospective measurement instrument. It is not
+**Hemowatch is decision support and a retrospective measurement instrument. It is not
 a medical device, it has never been run on clinical video, and it takes no clinical
 action of any kind.**
 

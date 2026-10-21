@@ -1,4 +1,4 @@
-# Hemowatch
+# Hemowatch/Scopewatch
 
 An entry for the OpenCV AI Competition 2026. Hemowatch watches the laparoscopic
 camera that is already in the operating room and measures the things a surgical team
